@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aaron-Nelder
-- 👀 I’m interested in Game Developemnt!
-- 🌱 I’m currently learning Game Development at niagara college and I'm set to graduate in april 2022
-- 📫 You can see more of the work I've done on my website at neldermakesgames.com
+Proven Intermediate Software Engineer with a robust background at MYR, excelling in C# and Unity3D to enhance gaming experiences.
+Spearheaded the development and integration of gameplay mechanics, optimized gameplay performance, demonstrating strong collaborative skills and a knack for performance optimization.
+Renowned for transforming complex technical challenges into seamless user experiences.
 
 <!---
 Aaron-Nelder/Aaron-Nelder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
